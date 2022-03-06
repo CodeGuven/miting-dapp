@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@600;700&display=swap");
+@import "embla.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.bg-pattern {
+  background-color: #000000;
+  background-image: url("https://gateway.pinata.cloud/ipfs/QmcVBsBS8WNuCX4Tfuy1iN4o3baVCUh1NnxncKFMNiaan2/siyah.png");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: #f4f4f4;
+  background: #000000;
+}
+
+::selection {
+  color: #f4f4f4;
+  background: #000000;
+}
+
+
+.underlined {
+  position: relative;
+}
+
+.underlined::after {
+  content: "";
+  position: absolute;
+  bottom: -1.525rem;
+  left: -0.5rem;
+  right: -0.5rem;
+  height: 40px;
+  z-index: 0;
+
+  background-repeat: no-repeat;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

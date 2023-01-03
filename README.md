@@ -38,12 +38,6 @@ Use **Your Own Smart Contract:**
 
 **Server:** Alchemy, NextJS, Hardhat
 
-## 🔗 Youtube Series For This Project
-
-You can also watch tutorial videos for this project
-
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AXwS_2EKZSI&list=PLDq0IUpYONvQ2yfbMuL8G0VUu_a3uTR8U)
-
 ## Support
 
 For support, email foxescrewclubnft@gmail.com

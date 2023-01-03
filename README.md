@@ -1,16 +1,16 @@
-# Emoji Faces NFT Minting dApp
+# Foxes Crew NFT Minting dApp
 
 This a complete example of fullstack NFT minting dApp. **EmojiFaces** is built with the purpose of providing an _entry point for future NFT Minting Website_ projects.
 
 ## Installation
 
-You can either use **the default EmojiFaces smart contract** and play with it or you can also put **your own smart contract** and make changes as needed. _Remember to change `.env` file with your own variables._
+You can either use **the default FoxBok smart contract** and play with it or you can also put **your own smart contract** and make changes as needed. _Remember to change `.env` file with your own variables._
 
-Use the default **EmojiFaces Smart Contract:**
+Use the default **FoxBok Smart Contract:**
 
 ```bash
-  git clone https://github.com/codingwithdidem/emojifacesdapp.git
-  cd emojifacesdapp
+  git clone https://github.com/CodeGuven/miting-dapp
+  cd miting-dapp
   npm install
   npm run dev
 ```
@@ -18,8 +18,8 @@ Use the default **EmojiFaces Smart Contract:**
 Use **Your Own Smart Contract:**
 
 ```bash
-  git clone https://github.com/codingwithdidem/emojifacesdapp.git
-  cd emojifacesdapp
+  git clone https://github.com/CodeGuven/miting-dapp
+  cd miting-dapp
   npm install
   npm run dev
 ```
@@ -44,10 +44,6 @@ You can also watch tutorial videos for this project
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AXwS_2EKZSI&list=PLDq0IUpYONvQ2yfbMuL8G0VUu_a3uTR8U)
 
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/codingwithdidem/emojifacesdapp/master/public/demo.png)
-
 ## Support
 
-For support, email codingwithdidem@gmail.com
+For support, email foxescrewclubnft@gmail.com
